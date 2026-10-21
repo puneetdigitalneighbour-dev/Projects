@@ -10,4 +10,5 @@ This directory contains the foundational marketing, positioning, and operational
 - **[Healx Physiotherapy](./healx%20physiotherapy/)**: Full product marketing, ICP, competitive differentiation, proof points, and customer voice context for HealX Physio & Rehab (Woodbridge, ON, Canada).
 - **[Otahuhu Dental Care](./otahuhu%20dental%20care/)**: Full product marketing, ICP, competitive differentiation, proof points, and customer voice context for Otahuhu Dental Care (Otahuhu, South Auckland NZ).
 - **[PRA Developments](./pra%20developments/)**: Full product marketing, ICP, competitive differentiation, proof points, and customer voice context for PRA Developments (Christchurch & Canterbury NZ).
+- **[Scrap Mart](./scrap%20mart/)**: Full product marketing, ICP, competitive differentiation, proof points, and customer voice context for Scrap Mart (Onehunga Auckland & Hillsborough Christchurch NZ).
 - **[The Foodland](./the%20foodland/)**: Full product marketing, ICP, competitive differentiation, proof points, and customer voice context for The Foodland (Moorhouse Ave, Christchurch NZ).
