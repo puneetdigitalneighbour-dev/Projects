@@ -8,6 +8,7 @@ This directory contains the foundational marketing, positioning, and operational
 - **[Auto Mobile Services](./auto%20mobile%20services/)**: Full product marketing, ICP, competitive differentiation, proof points, and customer voice context for Auto Mobile Services (Papatoetoe, South Auckland NZ).
 - **[Budget Beds](./budget%20beds/)**: Full product marketing, ICP, competitive differentiation, proof points, and customer voice context for Budget Beds (Penrose, Auckland & Nationwide NZ).
 - **[Healx Physiotherapy](./healx%20physiotherapy/)**: Full product marketing, ICP, competitive differentiation, proof points, and customer voice context for HealX Physio & Rehab (Woodbridge, ON, Canada).
+- **[Jalaram Auto](./jalaram%20auto/)**: Full product marketing, ICP, competitive differentiation, proof points, and customer voice context for Jalaram Auto (Glen Eden, West Auckland NZ).
 - **[Otahuhu Dental Care](./otahuhu%20dental%20care/)**: Full product marketing, ICP, competitive differentiation, proof points, and customer voice context for Otahuhu Dental Care (Otahuhu, South Auckland NZ).
 - **[PRA Developments](./pra%20developments/)**: Full product marketing, ICP, competitive differentiation, proof points, and customer voice context for PRA Developments (Christchurch & Canterbury NZ).
 - **[Scrap Mart](./scrap%20mart/)**: Full product marketing, ICP, competitive differentiation, proof points, and customer voice context for Scrap Mart (Onehunga Auckland & Hillsborough Christchurch NZ).
