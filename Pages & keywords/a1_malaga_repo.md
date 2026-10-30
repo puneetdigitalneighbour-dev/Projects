@@ -1,4 +1,4 @@
-# Project Repository: A1 Malaga Auto Dismantlers
+﻿# Project Repository: A1 Malaga Auto Dismantlers
 
 This document serves as the master data source for the **A1 Malaga Auto Dismantlers** project. It contains all approved target pages, keywords, campaign target pages, Google My Business (GMB) link, business directory listings, and social/profile links required for the off-page SEO and content creation workflow.
 
@@ -132,7 +132,39 @@ This document serves as the master data source for the **A1 Malaga Auto Dismantl
 
 ## 3. Off-Page Campaign Target Pages
 
-### 3.1 Web 2.0 Target Pages
+### 3.1 October 2026 Campaign Targets
+
+#### Web 2.0 Target Pages (4 Sets)
+1. **Set 1:**
+   - Primary: https://a1malagaautodismantlers.com.au/junk-car-removals-in-perth/ (Keywords: Best Junk Car Removal Perth, Free Junk Car Removal Perth)
+   - Secondary: https://a1malagaautodismantlers.com.au/auto-wreckers-in-perth/ (Keywords: Auto Wreckers Perth, Motor Wreckers Perth, Auto Wreckers Perth WA)
+2. **Set 2:**
+   - Primary: https://a1malagaautodismantlers.com.au/car-wreckers-in-perth/ (Keywords: Cash For Car Wrecks Perth, Wreckers In Perth, Car Dismantlers Perth)
+   - Secondary: https://a1malagaautodismantlers.com.au/scrap-car-removals-in-perth/ (Keywords: Cars For Scrap Perth, Scrap Car Removal Perth)
+3. **Set 3:**
+   - Primary: https://a1malagaautodismantlers.com.au/vehicle-wreckers-in-perth/ (Keyword: Vehicle Wreckers Perth)
+   - Secondary: https://a1malagaautodismantlers.com.au/4wd-wreckers-in-perth/ (Keywords: Four Wheel Drive Wreckers Perth, 4x4 Wreckers Perth, 4 X 4 Wreckers Perth)
+4. **Set 4:**
+   - Primary: https://a1malagaautodismantlers.com.au/cash-for-accidental-cars-in-perth/ (Keyword: Cash For Accidental Cars)
+   - Secondary: https://a1malagaautodismantlers.com.au/cash-for-junk-cars-in-perth/ (Keywords: Cash For Junk Cars, Money For Junk Cars)
+
+#### Guest Post Target Pages (4 Articles)
+1. https://a1malagaautodismantlers.com.au/junk-car-removals-in-perth/
+2. https://a1malagaautodismantlers.com.au/car-wreckers-in-perth/
+3. https://a1malagaautodismantlers.com.au/vehicle-wreckers-in-perth/
+4. https://a1malagaautodismantlers.com.au/cash-for-accidental-cars-in-perth/
+
+#### Article Target Pages (4 Articles)
+1. https://a1malagaautodismantlers.com.au/auto-wreckers-in-perth/
+2. https://a1malagaautodismantlers.com.au/scrap-car-removals-in-perth/
+3. https://a1malagaautodismantlers.com.au/4wd-wreckers-in-perth/
+4. https://a1malagaautodismantlers.com.au/cash-for-junk-cars-in-perth/
+
+---
+
+### 3.2 September 2026 Campaign Targets
+
+#### Web 2.0 Target Pages (September)
 
 #### 1st Web 2.0 Target Pages
 - `https://a1malagaautodismantlers.com.au/cash-for-junk-cars-in-malaga/`
@@ -152,7 +184,7 @@ This document serves as the master data source for the **A1 Malaga Auto Dismantl
 
 ---
 
-### 3.2 Guest Post Target Pages
+#### Guest Post Target Pages (September)
 - `https://a1malagaautodismantlers.com.au/cash-for-junk-cars-in-malaga/`
 - `https://a1malagaautodismantlers.com.au/cash-for-unwanted-cars-in-malaga/`
 - `https://a1malagaautodismantlers.com.au/car-removals-in-western-australia/`
@@ -160,7 +192,7 @@ This document serves as the master data source for the **A1 Malaga Auto Dismantl
 
 ---
 
-### 3.3 Article Target Pages
+#### Article Target Pages (September)
 - `https://a1malagaautodismantlers.com.au/cash-for-old-cars-in-malaga/`
 - `https://a1malagaautodismantlers.com.au/cash-for-4wd-in-malaga/`
 - `https://a1malagaautodismantlers.com.au/accident-car-removals-in-western-australia/`
@@ -189,6 +221,16 @@ This document serves as the master data source for the **A1 Malaga Auto Dismantl
 | 15 | 1BusinessWorld | `https://1businessworld.com/company/a1-malaga-auto-dismantlers/` |
 | 16 | Listur Business | `https://listurbusiness.com/?post_type=listivo_listing&p=63311&preview=true` |
 | 17 | Postlistd | `https://postlistd.com/listing/a1-malaga-auto-dismantlers-trusted-car-wreckers-in-perth/` |
+| 18 | Free Listing UK | `https://www.freelistinguk.com/listings/a1-malaga-auto-dismantlers` |
+| 19 | Biz411 | `https://www.biz411.org/182-camboon-rd-malaga-wa/business-services/a1-malaga-auto-dismantlers` |
+| 20 | Advanced SEO Directory | `https://www.advancedseodirectory.com/A1-Malaga-Auto-Dismantlers_677806.html` |
+| 21 | PostEzAds | `https://PostEzAds.com/506/posts/3/27/2101303.html` |
+| 22 | PostEzAd | `https://PostEzAd.com/506/posts/3/27/2076366.html` |
+| 23 | FreeWebAds | `https://FreeWebAds.biz/506/posts/3/27/2115346.html` |
+| 24 | ClassifiedsLink | `https://ClassifiedsLink.com/506/posts/3/27/2024093.html` |
+| 25 | PixoLinks | `https://PixoLinks.com/506/posts/3/27/1982854.html` |
+| 26 | InstantAdz | `https://InstantAdz.com/506/posts/3/27/2175834.html` |
+| 27 | oneBuySales | `https://oneBuySales.com/506/posts/3/27/2075374.html` |
 
 ---
 
@@ -224,3 +266,14 @@ This document serves as the master data source for the **A1 Malaga Auto Dismantl
 | 26 | HeyLink.me | `https://heylink.me/amalagaautodismantlers7/` |
 | 27 | Neformat Forum | `https://forum.neformat.com.ua/members/amalagaautodismantlers7.69545/#about` |
 | 28 | Bento.me | `https://bento.me/a1malagaauto` |
+| 29 | Event Network For Herself | `https://event-network-for-herself.mn.co/members/42296568` |
+| 30 | Chemical Network For Soccer Moms | `https://chemical-network-for-soccer-moms.mn.co/members/42296604` |
+| 31 | Criticized For Life | `https://criticized-for-life.mn.co/members/42296634` |
+| 32 | Connect With Muggles | `https://connect-with-muggles.mn.co/members/42296659` |
+| 33 | Faith Movement Dynamics | `https://faith-movement-dynamics.mn.co/members/42296705` |
+| 34 | College Officials | `https://college-officials.mn.co/members/42296727` |
+| 35 | Enthusiasts Existence | `https://enthusiasts-existence.mn.co/members/42296755` |
+| 36 | Stagejobs | `https://stagejobs.mn.co/members/42296789` |
+| 37 | SkyPixel | `https://www.skypixel.com/users/djiuser-mdkzyst44ssi-c99e1ab1fd0e` |
+| 38 | Experiment | `https://experiment.com/users/amalagaautodismantlers` |
+
