@@ -1,4 +1,4 @@
-# Project Repository: The Foodland
+﻿# Project Repository: The Foodland
 
 This document serves as the master data source for **The Foodland** project. It contains all approved target pages, keywords, campaign target pages, Google My Business (GMB) link, business directory listings, and social/profile links required for the off-page SEO and content creation workflow.
 
@@ -103,7 +103,39 @@ This document serves as the master data source for **The Foodland** project. It 
 
 ## 3. Off-Page Campaign Target Pages
 
-### 3.1 Web 2.0 Target Pages
+### 3.1 October 2026 Campaign Targets
+
+#### Web 2.0 Target Pages (4 Sets)
+1. **Set 1:**
+   - Primary: `https://thefoodland.nz/dry-fruits-and-nuts/` (Keywords: `Dried Fruits`, `Dry Fruits`)
+   - Secondary: `https://thefoodland.nz/grocery/sweets/` (Keywords: `Indian Sweets`, `Sweet Shop`)
+2. **Set 2:**
+   - Primary: `https://thefoodland.nz/herbs-and-spices/` (Keywords: `Spices Nz`, `Herbs And Spices Nz`)
+   - Secondary: `https://thefoodland.nz/grocery/tamarind/` (Keywords: `Tamarind Paste`, `Tamarind Puree`)
+3. **Set 3:**
+   - Primary: `https://thefoodland.nz/grocery/snacks/` (Keywords: `Indian Snack Food`, `Indian Snack`)
+   - Secondary: `https://thefoodland.nz/grocery/rice/` (Keywords: `Rice Nz`, `Rice Packets`)
+4. **Set 4:**
+   - Primary: `https://thefoodland.nz/grocery/tea/` (Keywords: `Tea Powder`, `Chai Nz`)
+   - Secondary: `https://thefoodland.nz/grocery/coffee/` (Keywords: `Indian Coffee`, `Order Coffee Online`, `Coffee Powder`)
+
+#### Guest Post Target Pages (4 Articles)
+1. `https://thefoodland.nz/dry-fruits-and-nuts/`
+2. `https://thefoodland.nz/herbs-and-spices/`
+3. `https://thefoodland.nz/grocery/snacks/`
+4. `https://thefoodland.nz/grocery/tea/`
+
+#### Article Target Pages (4 Articles)
+1. `https://thefoodland.nz/grocery/sweets/`
+2. `https://thefoodland.nz/grocery/tamarind/`
+3. `https://thefoodland.nz/grocery/rice/`
+4. `https://thefoodland.nz/grocery/coffee/`
+
+---
+
+### 3.2 September 2026 Campaign Targets
+
+#### Web 2.0 Target Pages (September)
 
 #### 1st Web 2.0 Target Pages
 - `https://thefoodland.nz/organic-foods/sesame-seeds-black-organic-500gm/`
@@ -123,7 +155,7 @@ This document serves as the master data source for **The Foodland** project. It 
 
 ---
 
-### 3.2 Guest Post Target Pages
+#### Guest Post Target Pages (September)
 - `https://thefoodland.nz/organic-foods/sesame-seeds-black-organic-500gm/`
 - `https://thefoodland.nz/organic-foods/quinoa-puff-organic-200gm/`
 - `https://thefoodland.nz/herbs-and-spices/tukmaria-basil-seeds-100gm/`
@@ -131,7 +163,7 @@ This document serves as the master data source for **The Foodland** project. It 
 
 ---
 
-### 3.3 Article Target Pages
+#### Article Target Pages (September)
 - `https://thefoodland.nz/grocery/jaggery/palm-sugar-chefs-choice/`
 - `https://thefoodland.nz/dals-flours-dals-flours/flours-dals-flours-dals-flours/wheat-gluten-flour-1kg/`
 - `https://thefoodland.nz/himalaya-supplements/ashwagandha-himalaya/`
@@ -173,6 +205,16 @@ This document serves as the master data source for **The Foodland** project. It 
 | 28 | Directory Rec | `https://directoryrec.com/listings1097315/foodland-fresh-groceries-and-quality-food-store` |
 | 29 | One Directory | `https://one-directory.com/listings1090181/foodland-fresh-groceries-and-quality-food-store` |
 | 30 | List Ottawa | `https://www.listottawa.com/501-moorhouse-avenue-christchurch-8011-new-zealand/food-dining/the-foodland` |
+| 31 | Free Listing UK | `https://www.freelistinguk.com/listings/the-foodland` |
+| 32 | Biz411 | `https://www.biz411.org/501-moorhouse-avenue-christchurch-8011-new-zealand/business-services/the-foodland` |
+| 33 | Advanced SEO Directory | `https://www.advancedseodirectory.com/The-Foodland_677916.html` |
+| 34 | PostEzAds | `https://PostEzAds.com/556/posts/3/27/2101913.html` |
+| 35 | PostEzAd | `https://PostEzAd.com/556/posts/3/27/2077019.html` |
+| 36 | FreeWebAds | `https://FreeWebAds.biz/556/posts/3/27/2115937.html` |
+| 37 | ClassifiedsLink | `https://ClassifiedsLink.com/556/posts/3/27/2024697.html` |
+| 38 | PixoLinks | `https://PixoLinks.com/556/posts/3/27/1983322.html` |
+| 39 | InstantAdz | `https://InstantAdz.com/556/posts/3/27/2176939.html` |
+| 40 | oneBuySales | `https://oneBuySales.com/556/posts/3/27/2075996.html` |
 
 ---
 
@@ -210,3 +252,14 @@ This document serves as the master data source for **The Foodland** project. It 
 | 28 | Tai-Ji | `https://www.tai-ji.net/members/profile/3599891/Thefood%20land.htm` |
 | 29 | Nabble AEA Learning | `https://nabble.aealearningonline.org/The-Foodland-td31025.html` |
 | 30 | CCN Dynamics 365 Portals | `https://ccn.dynamics365portals.us/forums/general-discussion/4f2930cf-00ea-f011-ad8f-001dd806e56c#16603590-c9ea-f011-8543-001dd800e224` |
+| 31 | Event Network For Herself | `https://event-network-for-herself.mn.co/members/42297168` |
+| 32 | Chemical Network For Soccer Moms | `https://chemical-network-for-soccer-moms.mn.co/members/42297242` |
+| 33 | Criticized For Life | `https://criticized-for-life.mn.co/members/42297287` |
+| 34 | Connect With Muggles | `https://connect-with-muggles.mn.co/members/42297309` |
+| 35 | Faith Movement Dynamics | `https://faith-movement-dynamics.mn.co/members/42297328` |
+| 36 | College Officials | `https://college-officials.mn.co/members/42297356` |
+| 37 | Enthusiasts Existence | `https://enthusiasts-existence.mn.co/members/42297414` |
+| 38 | Stagejobs | `https://stagejobs.mn.co/members/42297468` |
+| 39 | SkyPixel | `https://www.skypixel.com/users/djiuser-bf7aluu12cwh-2b4f5d21295d` |
+| 40 | Experiment | `https://experiment.com/users/thefoodland` |
+
