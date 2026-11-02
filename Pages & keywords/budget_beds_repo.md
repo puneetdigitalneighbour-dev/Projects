@@ -1,4 +1,4 @@
-# Project Repository: Budget Beds
+﻿# Project Repository: Budget Beds
 
 This document serves as the master data source for the **Budget Beds** project. It contains all approved target pages, keywords, campaign target pages, Google My Business (GMB) link, business directory listings, and social/profile links required for the off-page SEO and content creation workflow.
 
@@ -45,7 +45,39 @@ This document serves as the master data source for the **Budget Beds** project. 
 
 ## 3. Off-Page Campaign Target Pages
 
-### 3.1 Web 2.0 Target Pages
+### 3.1 October 2026 Campaign Targets
+
+#### Web 2.0 Target Pages (4 Sets)
+1. **Set 1:**
+   - Primary: `https://www.budgetbeds.co.nz/collections/mattresses` (Keywords: `Best Mattresses Nz`, `Mattress Auckland`)
+   - Secondary: `https://www.budgetbeds.co.nz/collections/mattress-king-single` (Keywords: `King Single Mattress Nz`, `King Single Mattress Auckland`)
+2. **Set 2:**
+   - Primary: `https://www.budgetbeds.co.nz/collections/headboards` (Keywords: `Headboards Nz`, `Headboards Auckland`)
+   - Secondary: `https://www.budgetbeds.co.nz/collections/mattresses` (Keywords: `Best Mattresses Nz`, `Mattress Auckland`)
+3. **Set 3:**
+   - Primary: `https://www.budgetbeds.co.nz/pages/winz-quote` (Keywords: `Winz Quote Furniture`, `Winz Furniture Grant`, `Winz Approved Furniture Stores`)
+   - Secondary: `https://www.budgetbeds.co.nz/collections/queen-size-headboards` (Keywords: `Queen Headboard Nz`, `Queen Headboard Auckland`)
+4. **Set 4:**
+   - Primary: `https://www.budgetbeds.co.nz/collections/super-king-headboards` (Keywords: `Super King Headboard Nz`, `Super King Headboard Auckland`)
+   - Secondary: `https://www.budgetbeds.co.nz/collections/california-king-bed` (Keywords: `California King Bed Nz`, `California King Bed Auckland`)
+
+#### Guest Post Target Pages (4 Articles)
+1. `https://www.budgetbeds.co.nz/collections/mattresses`
+2. `https://www.budgetbeds.co.nz/collections/headboards`
+3. `https://www.budgetbeds.co.nz/pages/winz-quote`
+4. `https://www.budgetbeds.co.nz/collections/super-king-headboards`
+
+#### Article Target Pages (4 Articles)
+1. `https://www.budgetbeds.co.nz/collections/mattress-king-single`
+2. `https://www.budgetbeds.co.nz/collections/mattresses`
+3. `https://www.budgetbeds.co.nz/collections/queen-size-headboards`
+4. `https://www.budgetbeds.co.nz/collections/california-king-bed`
+
+---
+
+### 3.2 September 2026 Campaign Targets
+
+#### Web 2.0 Target Pages (September)
 
 #### 1st Web 2.0 Target Pages
 - `https://www.budgetbeds.co.nz/collections/headboards`
@@ -65,7 +97,7 @@ This document serves as the master data source for the **Budget Beds** project. 
 
 ---
 
-### 3.2 Guest Post Target Pages
+#### Guest Post Target Pages (September)
 - `https://www.budgetbeds.co.nz/collections/headboards`
 - `https://www.budgetbeds.co.nz/collections/double-size-headboards`
 - `https://www.budgetbeds.co.nz/collections/king-headboards`
@@ -73,7 +105,7 @@ This document serves as the master data source for the **Budget Beds** project. 
 
 ---
 
-### 3.3 Article Target Pages
+#### Article Target Pages (September)
 - `https://www.budgetbeds.co.nz/collections/single-size-headboards`
 - `https://www.budgetbeds.co.nz/collections/queen-size-headboards`
 - `https://www.budgetbeds.co.nz/collections/super-king-headboards`
@@ -95,6 +127,16 @@ This document serves as the master data source for the **Budget Beds** project. 
 | 8 | SEO A1 Directory | `https://seo-a1directory.com/listings1202657/budget-beds` |
 | 9 | Arctic Directory | `https://www.arcticdirectory.com/gosearch.php?q=https%3A%2F%2Fwww.budgetbeds.co.nz%2F` |
 | 10 | Ask Directory | `https://ask-dir.org/Budget-Beds_392648.html` |
+| 11 | Free Listing UK | `https://www.freelistinguk.com/listings/budget-beds` |
+| 12 | Biz411 | `https://www.biz411.org/auckland/business-services/budget-beds` |
+| 13 | Advanced SEO Directory | `https://www.advancedseodirectory.com/Budget-Beds_677949.html` |
+| 14 | PostEzAds | `https://PostEzAds.com/556/posts/3/27/2102164.html` |
+| 15 | PostEzAd | `https://PostEzAd.com/556/posts/3/27/2077292.html` |
+| 16 | FreeWebAds | `https://FreeWebAds.biz/556/posts/3/27/2116197.html` |
+| 17 | ClassifiedsLink | `https://ClassifiedsLink.com/556/posts/3/27/2024974.html` |
+| 18 | PixoLinks | `https://PixoLinks.com/556/posts/3/27/1983499.html` |
+| 19 | InstantAdz | `https://InstantAdz.com/556/posts/3/27/2177280.html` |
+| 20 | oneBuySales | `https://oneBuySales.com/556/posts/3/27/2076331.html` |
 
 ---
 
@@ -112,3 +154,14 @@ This document serves as the master data source for the **Budget Beds** project. 
 | 8 | Aprender Fotografia | `https://aprenderfotografia.online/usuarios/budgetbeds/profile/` |
 | 9 | The Mighty | `https://themighty.com/u/budgetbeds/` |
 | 10 | Investagrams | `https://www.investagrams.com/Profile/budgetbeds` |
+| 11 | Event Network For Herself | `https://event-network-for-herself.mn.co/members/42348803` |
+| 12 | Chemical Network For Soccer Moms | `https://chemical-network-for-soccer-moms.mn.co/members/42348840` |
+| 13 | Criticized For Life | `https://criticized-for-life.mn.co/members/42348874` |
+| 14 | Connect With Muggles | `https://connect-with-muggles.mn.co/members/42349033` |
+| 15 | Faith Movement Dynamics | `https://faith-movement-dynamics.mn.co/members/42349079` |
+| 16 | College Officials | `https://college-officials.mn.co/members/42349102` |
+| 17 | Enthusiasts Existence | `https://enthusiasts-existence.mn.co/members/42349128` |
+| 18 | Stagejobs | `https://stagejobs.mn.co/members/42349147` |
+| 19 | SkyPixel | `https://www.skypixel.com/users/djiuser-rkkiqhntobo9-4750ab780a63` |
+| 20 | Experiment | `https://experiment.com/users/budgetbeds` |
+
