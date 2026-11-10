@@ -1,4 +1,4 @@
-# Project Repository: Healx Physiotherapy
+﻿# Project Repository: Healx Physiotherapy
 
 This document serves as the master data source for the **Healx Physiotherapy** project. It contains all approved target pages, keywords, campaign target pages, Google My Business (GMB) link, business directory listings, and social/profile links required for the off-page SEO and content creation workflow.
 
@@ -34,30 +34,43 @@ This document serves as the master data source for the **Healx Physiotherapy** p
 
 ## 3. Off-Page Campaign Target Pages
 
-### 3.1 Web 2.0 Target Pages
+### 3.1 September 2026 Campaign Targets
 
-#### 1st Web 2.0 Target Pages
-- `http://healxphysio.ca/services/compression-stockings`
-- `http://healxphysio.ca/services/custom-orthotics`
+#### Web 2.0 Target Pages (2 Sets)
+1. **Set 1:**
+   - Primary: `http://healxphysio.ca/services/compression-stockings` (Keywords: `Compression Stockings Woodbridge`, `Compression Therapy Stockings`)
+   - Secondary: `http://healxphysio.ca/services/custom-orthotics` (Keywords: `Custom Foot Orthotics`, `Woodbridge Custom Orthotics`)
+2. **Set 2:**
+   - Primary: `http://healxphysio.ca/services/telehealth-physiotherapy` (Keywords: `Telehealth Physiotherapy`, `Telehealth Physiotherapy Woodbridge`)
+   - Secondary: `http://healxphysio.ca/services/shockwave-therapy` (Keywords: `Shockwave Therapy Woodbridge`, `Shockwave Therapy Physiotherapy`)
 
-#### 2nd Web 2.0 Target Pages
-- `http://healxphysio.ca/services/telehealth-physiotherapy`
-- `http://healxphysio.ca/services/shockwave-therapy`
+#### Guest Post Target Pages (4 Articles)
+1. Articles 1 & 2: `http://healxphysio.ca/services/compression-stockings` (Keywords: `Compression Stockings Woodbridge`) + Homepage
+2. Articles 3 & 4: `http://healxphysio.ca/services/telehealth-physiotherapy` (Keywords: `Telehealth Physiotherapy`) + Homepage
+
+#### Article Target Pages (4 Articles)
+1. Articles 1 & 2: `http://healxphysio.ca/services/custom-orthotics` (Keywords: `Custom Foot Orthotics`) + Homepage
+2. Articles 3 & 4: `http://healxphysio.ca/services/shockwave-therapy` (Keywords: `Shockwave Therapy Woodbridge`) + Homepage
+
+### 3.2 October 2026 Campaign Targets
+
+#### Web 2.0 Target Pages (2 Sets)
+1. **Set 1:**
+   - Primary: `http://healxphysio.ca/services/cupping-therapy` (Keywords: `Cupping Therapy Treatment`, `Cupping Therapy Woodbridge`)
+   - Secondary: `http://healxphysio.ca/services/massage-therapy` (Keywords: `Massage Therapy Woodbridge`, `Massage Therapist In Woodbridge`)
+2. **Set 2:**
+   - Primary: `http://healxphysio.ca/services/compression-stockings` (Keywords: `Compression Stockings Woodbridge`, `Compression Therapy Stockings`)
+   - Secondary: `http://healxphysio.ca/services` (Keywords: `Physiotherapy Services Woodbridge`)
+
+#### Guest Post Target Pages (4 Articles)
+1. Articles 1 & 2: `http://healxphysio.ca/services/cupping-therapy` (Keywords: `Cupping Therapy Treatment`, `Cupping Therapy Woodbridge`) + Homepage (`http://healxphysio.ca`)
+2. Articles 3 & 4: `http://healxphysio.ca/services/compression-stockings` (Keywords: `Compression Stockings Woodbridge`, `Compression Therapy Stockings`) + Homepage (`http://healxphysio.ca`)
+
+#### Article Target Pages (4 Articles)
+1. Articles 1 & 2: `http://healxphysio.ca/services/massage-therapy` (Keywords: `Massage Therapy Woodbridge`, `Massage Therapist In Woodbridge`) + Homepage (`http://healxphysio.ca`)
+2. Articles 3 & 4: `http://healxphysio.ca/services` (Keywords: `Physiotherapy Services Woodbridge`) + Homepage (`http://healxphysio.ca`)
 
 ---
-
-### 3.2 Guest Post Target Pages
-- `http://healxphysio.ca/services/compression-stockings`
-- `http://healxphysio.ca/services/telehealth-physiotherapy`
-
----
-
-### 3.3 Article Target Pages
-- `http://healxphysio.ca/services/custom-orthotics`
-- `http://healxphysio.ca/services/shockwave-therapy`
-
----
-
 ## 4. Business Listings & Local Citations
 
 | # | Platform / Directory | Listing URL |
@@ -92,6 +105,36 @@ This document serves as the master data source for the **Healx Physiotherapy** p
 | 28 | Liste Directory | `https://listedirectory.com/listings1203375/healx-physiotherapy` |
 | 29 | SEO A1 Directory | `https://seo-a1directory.com/listings1194065/healx-physiotherapy` |
 | 30 | Brown Edge Directory | `https://www.brownedgedirectory.com/gosearch.php?q=Healx+Physiotherapy` |
+| 31 | TradeHQ | `https://tradehq.co.nz/?post_type=trades&p=18307` |
+| 32 | Activ Directory | `https://activdirectory.net/listing/healx-physiotherapy-ltd-1310207` |
+| 33 | ClassifiedsLink | `https://ClassifiedsLink.com/556/posts/3/27/2031658.html` |
+| 34 | BizToBiz | `https://www.biztobiz.org/business-services/healx-physiotherapy` |
+| 35 | AliveLinks | `http://alivelinks.org/Healx-Physiotherapy_564087.html` |
+| 36 | Royal Directory | `https://royaldirectory.biz/Healx-Physiotherapy_382824.html` |
+| 37 | BizLinkBuilder | `https://www.bizlinkbuilder.com/business-services/healx-physiotherapy` |
+| 38 | Activ Directory (Listing 2) | `https://activdirectory.net/listing/why-choose-healx-physiotherapy-in-canada-personalized-care-for-faster-recovery-1244810` |
+| 39 | TomatoQ | `https://tomatoq.com/listing/healx-physiotherapy/` |
+| 40 | BlogBangBoom | `https://www.blogbangboom.com/business-services/healx-physiotherapy` |
+| 41 | BizLinkBuilder (Listing 2) | `https://www.bizlinkbuilder.com/business-services/healx-physiotherapy` |
+| 42 | PixoLinks | `https://PixoLinks.com/513/posts/3/27/1988632.html` |
+| 43 | OneBuySales | `https://oneBuySales.com/513/posts/3/27/2059362.html` |
+| 44 | InstantAdz | `https://InstantAdz.com/513/posts/3/27/2188116.html` |
+| 45 | Popular Directory | `https://populardirectory.org/Healx-Physiotherapy_357412.html` |
+| 46 | Advanced SEO Directory | `https://www.advancedseodirectory.com/Revolutionizing-Recovery:-HealX-Physiotherapy-Transforming-Lives-Across-Canada_637671.html` |
+| 47 | eBay Dir | `https://ebay-dir.com/listing/healx-physiotherapy-465504` |
+| 48 | Aweblist | `https://aweblist.org/listing/healx-physiotherapy-965443` |
+| 49 | BlogBangBoom (Listing 2) | `https://www.blogbangboom.com/business-services/healx-physiotherapy` |
+| 50 | FamilyDir | `https://www.familydir.com/HealX-Physiotherapy-Canada-%E2%80%93-Personalized-Care-for-Pain-Relief-Recovery_527786.html` |
+| 51 | BizToBiz (Listing 2) | `https://www.biztobiz.org/business-services/healx-physiotherapy` |
+| 52 | InstantAdz (Listing 2) | `https://InstantAdz.com/513/posts/3/27/2188750.html` |
+| 53 | FreeAdsHome | `https://FreeAdsHome.com/513/posts/3/27/2272735.html` |
+| 54 | Classified4u | `https://classified4u.biz/513/posts/3/27/2125959.html` |
+| 55 | FreeAdsHome (Listing 2) | `https://FreeAdsHome.com/513/posts/3/27/2272761.html` |
+| 56 | FreeBestAds | `https://FreeBestAds.com/513/posts/3/27/2202634.html` |
+| 57 | GetAdsOnline | `https://GetAdsOnline.com/513/posts/3/27/2428697.html` |
+| 58 | eOnlineAds | `https://eOnlineAds.com/513/posts/3/27/2149976.html` |
+| 59 | Robust Directory | `https://robustdirectory.com/listings2221109/healx-physiotherapy` |
+| 60 | Web Directory Talk | `https://webdirectorytalk.com/listings1321468/healx-physiotherapy` |
 
 ---
 
@@ -129,3 +172,33 @@ This document serves as the master data source for the **Healx Physiotherapy** p
 | 28 | JoriPress | `https://joripress.com/profile/heal-x` |
 | 29 | LinkAI | `https://linkai.ink/healxphysio` |
 | 30 | Hashnode | `https://hashnode.com/@healx` |
+| 31 | Event Network For Herself | `https://event-network-for-herself.mn.co/members/42292593` |
+| 32 | Chemical Network For Soccer Moms | `https://chemical-network-for-soccer-moms.mn.co/members/42292617` |
+| 33 | Criticized For Life | `https://criticized-for-life.mn.co/members/42292628` |
+| 34 | Connect With Muggles | `https://connect-with-muggles.mn.co/members/42292638` |
+| 35 | Faith Movement Dynamics | `https://faith-movement-dynamics.mn.co/members/42292647` |
+| 36 | College Officials | `https://college-officials.mn.co/members/42292670` |
+| 37 | Enthusiasts Existence | `https://enthusiasts-existence.mn.co/members/42292810` |
+| 38 | Stagejobs | `https://stagejobs.mn.co/members/42292848` |
+| 39 | SkyPixel | `https://www.skypixel.com/users/djiuser-xgiiye9rtvfu-29095f8185be` |
+| 40 | Experiment | `https://experiment.com/users/healxphysiotherapy` |
+| 41 | Machform | `https://discuss.machform.com/u/healxphysiotherapy` |
+| 42 | Behance | `https://www.behance.net/healx` |
+| 43 | ClickASnap | `https://www.clickasnap.com/profile/healx` |
+| 44 | Dallas Dog | `https://www.dallasdog.org/members-area/healx93212042/profile` |
+| 45 | TripAdvisor | `https://www.tripadvisor.com/Profile/healxphysiotherapy` |
+| 46 | Dynamics Of Craftsmanship | `https://dynamics-of-craftsmanship.mn.co/members/42293066` |
+| 47 | Changing Your Helpers | `https://changing-your-helpers.mn.co/members/42293090` |
+| 48 | Giphy | `https://giphy.com/channel/Healxphysio` |
+| 49 | Issabel Forum | `https://forum.issabel.org/u/healxphysiotherapy` |
+| 50 | Disroot | `https://git.disroot.org/healxphysiotherapy` |
+| 51 | Communal Impact | `https://communal-impact.mn.co/members/42293248` |
+| 52 | ScienceMission | `https://sciencemission.com/profile/healx` |
+| 53 | Disqus | `https://disqus.com/by/healxphysio/about/` |
+| 54 | SoundCloud | `https://soundcloud.com/healx-physiotherapy` |
+| 55 | FriendTalk | `https://friendtalk.mn.co/members/42293692` |
+| 56 | JanjaOnline | `https://janjaonline.mn.co/members/42293725` |
+| 57 | DemocracyLab | `https://www.democracylab.org/user/70108` |
+| 58 | Simply Wall St | `https://simplywall.st/community/users/6l98r69g` |
+| 59 | PubHTML5 | `https://pubhtml5.com/homepage/hqzwv/` |
+| 60 | Issuu | `https://issuu.com/healx?ps=24` |
