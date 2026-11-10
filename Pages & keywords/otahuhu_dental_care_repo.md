@@ -1,4 +1,4 @@
-# Project Repository: Otahuhu Dental Care
+﻿# Project Repository: Otahuhu Dental Care
 
 This document serves as the master data source for the **Otahuhu Dental Care** project. It contains all approved target pages, keywords, campaign target pages, Google My Business (GMB) link, business directory listings, and social/profile links required for the off-page SEO and content creation workflow.
 
@@ -32,30 +32,43 @@ This document serves as the master data source for the **Otahuhu Dental Care** p
 
 ## 3. Off-Page Campaign Target Pages
 
-### 3.1 Web 2.0 Target Pages
+### 3.1 September 2026 Campaign Targets
 
-#### 1st Web 2.0 Target Pages
-- `https://www.otahuhudental.co.nz/scaling-and-polishing/`
-- `https://www.otahuhudental.co.nz/tooth-extraction/`
+#### Web 2.0 Target Pages (2 Sets)
+1. **Set 1:**
+   - Primary: `https://www.otahuhudental.co.nz/scaling-and-polishing/` (Keywords: `Teeth Cleaning South Auckland`, `Teeth Scaling South Auckland`)
+   - Secondary: `https://www.otahuhudental.co.nz/tooth-extraction/` (Keywords: `Tooth Extraction South Auckland`, `Broken Tooth Extraction`)
+2. **Set 2:**
+   - Primary: `https://www.otahuhudental.co.nz/orthodontic-treatment/` (Keywords: `orthodontist south auckland`, `south auckland orthodontist`)
+   - Secondary: `https://www.otahuhudental.co.nz/teeth-whitening/` (Keywords: `Teeth Whitening South Auckland`, `Best Teeth Whitening Otahuhu`)
 
-#### 2nd Web 2.0 Target Pages
-- `https://www.otahuhudental.co.nz/orthodontic-treatment/`
-- `https://www.otahuhudental.co.nz/teeth-whitening/`
+#### Guest Post Target Pages (4 Articles)
+1. Articles 1 & 2: `https://www.otahuhudental.co.nz/scaling-and-polishing/` (Keywords: `Teeth Cleaning South Auckland`) + Homepage
+2. Articles 3 & 4: `https://www.otahuhudental.co.nz/orthodontic-treatment/` (Keywords: `orthodontist south auckland`) + Homepage
+
+#### Article Target Pages (4 Articles)
+1. Articles 1 & 2: `https://www.otahuhudental.co.nz/tooth-extraction/` (Keywords: `Tooth Extraction South Auckland`) + Homepage
+2. Articles 3 & 4: `https://www.otahuhudental.co.nz/teeth-whitening/` (Keywords: `Teeth Whitening South Auckland`) + Homepage
+
+### 3.2 October 2026 Campaign Targets
+
+#### Web 2.0 Target Pages (2 Sets)
+1. **Set 1:**
+   - Primary: `https://www.otahuhudental.co.nz/services/` (Keywords: `Otahuhu Dental Services`)
+   - Secondary: `https://www.otahuhudental.co.nz/services/orthodontic-treatment` (Keywords: `orthodontist south auckland`, `south auckland orthodontist`)
+2. **Set 2:**
+   - Primary: `https://www.otahuhudental.co.nz/services/laser-dentistry` (Keywords: `Laser Dentistry South Auckland`, `Best Laser Dentistry South Auckland`)
+   - Secondary: `https://www.otahuhudental.co.nz/services/scaling-and-polishing` (Keywords: `Teeth Cleaning South Auckland`, `Teeth Scaling South Auckland`)
+
+#### Guest Post Target Pages (4 Articles)
+1. Articles 1 & 2: `https://www.otahuhudental.co.nz/services/` (Keywords: `Otahuhu Dental Services`) + Homepage (`https://www.otahuhudental.co.nz/`)
+2. Articles 3 & 4: `https://www.otahuhudental.co.nz/services/laser-dentistry` (Keywords: `Laser Dentistry South Auckland`, `Laser Dentistry Otahuhu`) + Homepage (`https://www.otahuhudental.co.nz/`)
+
+#### Article Target Pages (4 Articles)
+1. Articles 1 & 2: `https://www.otahuhudental.co.nz/services/orthodontic-treatment` (Keywords: `orthodontist south auckland`, `orthodontist otahuhu`) + Homepage (`https://www.otahuhudental.co.nz/`)
+2. Articles 3 & 4: `https://www.otahuhudental.co.nz/services/scaling-and-polishing` (Keywords: `Teeth Cleaning South Auckland`, `Teeth Scaling Otahuhu`) + Homepage (`https://www.otahuhudental.co.nz/`)
 
 ---
-
-### 3.2 Guest Post Target Pages
-- `https://www.otahuhudental.co.nz/scaling-and-polishing/`
-- `https://www.otahuhudental.co.nz/orthodontic-treatment/`
-
----
-
-### 3.3 Article Target Pages
-- `https://www.otahuhudental.co.nz/tooth-extraction/`
-- `https://www.otahuhudental.co.nz/teeth-whitening/`
-
----
-
 ## 4. Business Listings & Local Citations
 
 | # | Platform / Directory | Listing URL |
@@ -90,6 +103,36 @@ This document serves as the master data source for the **Otahuhu Dental Care** p
 | 28 | Liste Directory (Listing 2) | `https://listedirectory.com/listings1207319/otahuhu-dental-care` |
 | 29 | SEO A1 Directory | `https://seo-a1directory.com/listings1197831/otahuhu-dental-care` |
 | 30 | Brown Edge Directory | `https://www.brownedgedirectory.com/gosearch.php?q=Otahuhu+Dental+Care` |
+| 31 | TradeHQ | `https://tradehq.co.nz/?post_type=trades&p=18305` |
+| 32 | Activ Directory | `https://activdirectory.net/listing/otahuhu-dental-care-1310160` |
+| 33 | ClassifiedsLink | `https://ClassifiedsLink.com/556/posts/3/27/2009865.html` |
+| 34 | BizToBiz | `https://www.biztobiz.org/auckland/healthcare-pharmaceuticals-biotech/otahuhu-dental-care` |
+| 35 | AliveLinks | `http://alivelinks.org/Otahuhu-Dental-Care_563697.html` |
+| 36 | Royal Directory | `https://royaldirectory.biz/Otahuhu-Dental-Care_382634.html` |
+| 37 | BizLinkBuilder | `https://www.bizlinkbuilder.com/auckland/healthcare-pharmaceuticals-biotech/otahuhu-dental-care` |
+| 38 | Activ Directory (Listing 2) | `https://activdirectory.net/listing/otahuhu-dental-care-ltd-1310174` |
+| 39 | TomatoQ | `https://tomatoq.com/listing/otahuhu-dental-care/` |
+| 40 | BlogBangBoom | `https://www.blogbangboom.com/auckland/healthcare-pharmaceuticals-biotech/otahuhu-dental-care` |
+| 41 | BizLinkBuilder (Listing 2) | `https://www.bizlinkbuilder.com/auckland/healthcare-pharmaceuticals-biotech/otahuhu-dental-care` |
+| 42 | PixoLinks | `https://PixoLinks.com/556/posts/3/27/1970775.html` |
+| 43 | PixoLinks (Listing 2) | `https://PixoLinks.com/556/posts/3/27/1988573.html` |
+| 44 | InstantAdz | `https://InstantAdz.com/556/posts/3/27/2187998.html` |
+| 45 | Popular Directory | `https://populardirectory.org/Otahuhu-dental-care_357225.html` |
+| 46 | Advanced SEO Directory | `https://www.advancedseodirectory.com/Otahuhu-Dental-Care_678918.html` |
+| 47 | eBay Dir | `https://ebay-dir.com/listing/otahuhu-dental-care-465490` |
+| 48 | Find Us Here | `https://www.find-us-here.com/businesses/Otahuhu-Dental-Care-Auckland-Auckland-New-Zealand/34502768/` |
+| 49 | BlogBangBoom (Listing 2) | `https://www.blogbangboom.com/auckland/healthcare-pharmaceuticals-biotech/otahuhu-dental-care` |
+| 50 | FamilyDir | `https://www.familydir.com/Otahuhu-Dental-Care_547472.html` |
+| 51 | BizToBiz (Listing 2) | `https://www.biztobiz.org/auckland/healthcare-pharmaceuticals-biotech/otahuhu-dental-care` |
+| 52 | InstantAdz (Listing 2) | `https://InstantAdz.com/556/posts/3/27/2154258.html` |
+| 53 | FreeAdsHome | `https://FreeAdsHome.com/556/posts/3/27/2272104.html` |
+| 54 | Classified4u | `https://classified4u.biz/556/posts/7/63/2125622.html` |
+| 55 | FreeAdsHome (Listing 2) | `https://FreeAdsHome.com/556/posts/3/27/2272140.html` |
+| 56 | FreeBestAds | `https://FreeBestAds.com/556/posts/3/27/2202114.html` |
+| 57 | GetAdsOnline | `https://GetAdsOnline.com/556/posts/3/26/2427837.html` |
+| 58 | eOnlineAds | `https://eOnlineAds.com/556/posts/3/26/2149495.html` |
+| 59 | Robust Directory | `https://robustdirectory.com/listings2219429/otahuhu-dental-care` |
+| 60 | Web Directory Talk | `https://webdirectorytalk.com/listings1320721/otahuhu-dental-care` |
 
 ---
 
@@ -127,3 +170,33 @@ This document serves as the master data source for the **Otahuhu Dental Care** p
 | 28 | My Oily Habit | `https://www.myoilyhabit.com/profile/otahuhudentalcare1021024/profile` |
 | 29 | Dallas Dog | `https://www.dallasdog.org/members-area/otahuhudentalcare1099136/profile` |
 | 30 | JoriPress | `https://joripress.com/profile/otahuhu-dental-care` |
+| 31 | Event Network For Herself | `https://event-network-for-herself.mn.co/members/42267169` |
+| 32 | Chemical Network For Soccer Moms | `https://chemical-network-for-soccer-moms.mn.co/members/42267201` |
+| 33 | Criticized For Life | `https://criticized-for-life.mn.co/members/42267227` |
+| 34 | Connect With Muggles | `https://connect-with-muggles.mn.co/members/42267249` |
+| 35 | Faith Movement Dynamics | `https://faith-movement-dynamics.mn.co/members/42267276` |
+| 36 | College Officials | `https://college-officials.mn.co/members/42267297` |
+| 37 | Enthusiasts Existence | `https://enthusiasts-existence.mn.co/members/42267333` |
+| 38 | Stagejobs | `https://stagejobs.mn.co/members/42267347` |
+| 39 | SkyPixel | `https://www.skypixel.com/users/djiuser-on6wzxatskj0-c2147f1af367` |
+| 40 | Experiment | `https://experiment.com/users/otahuhudentalcare` |
+| 41 | Machform | `https://discuss.machform.com/u/otahuhudentalcare` |
+| 42 | Behance | `https://www.behance.net/otahuhucare` |
+| 43 | ClickASnap | `https://www.clickasnap.com/profile/otahuhudentalcare` |
+| 44 | Dallas Dog | `https://www.dallasdog.org/members-area/otahuhudentalcare1099136/profile` |
+| 45 | TripAdvisor | `https://www.tripadvisor.com/Profile/otahuhudentalcare` |
+| 46 | Dynamics Of Craftsmanship | `https://dynamics-of-craftsmanship.mn.co/members/42267649` |
+| 47 | Changing Your Helpers | `https://changing-your-helpers.mn.co/members/42267664` |
+| 48 | Giphy | `https://giphy.com/channel/otahuhudentalcare` |
+| 49 | Issabel Forum | `https://forum.issabel.org/u/otahuhudentalcare` |
+| 50 | Disroot | `https://git.disroot.org/otahuhudentalcare` |
+| 51 | Communal Impact | `https://communal-impact.mn.co/members/42267794` |
+| 52 | ScienceMission | `https://sciencemission.com/profile/otahuhudentalcare` |
+| 53 | Disqus | `https://disqus.com/by/otahuhudentalcare/about/` |
+| 54 | SoundCloud | `https://soundcloud.com/otahuhu-dental-care` |
+| 55 | FriendTalk | `https://friendtalk.mn.co/members/42267867` |
+| 56 | JanjaOnline | `https://janjaonline.mn.co/members/42267885` |
+| 57 | DemocracyLab | `https://www.democracylab.org/user/69778` |
+| 58 | Simply Wall St | `https://simplywall.st/community/users/alu84tzb` |
+| 59 | PubHTML5 | `https://pubhtml5.com/homepage/prnma/` |
+| 60 | Issuu | `https://issuu.com/otahuhudentalcare10?ps=24` |
