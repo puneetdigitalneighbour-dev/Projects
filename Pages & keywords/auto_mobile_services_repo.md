@@ -1,4 +1,4 @@
-# Project Repository: Auto Mobile Services
+﻿# Project Repository: Auto Mobile Services
 
 This document serves as the master data source for the **Auto Mobile Services** project. It contains all approved target pages, keywords, campaign target pages, Google My Business (GMB) link, business directory listings, and social/profile links required for the off-page SEO and content creation workflow.
 
@@ -33,7 +33,29 @@ This document serves as the master data source for the **Auto Mobile Services** 
 
 ## 3. Off-Page Campaign Target Pages
 
-### 3.1 Web 2.0 Target Pages
+### 3.1 October 2026 Campaign Targets
+
+#### Web 2.0 Target Pages (2 Sets)
+1. **Set 1:**
+   - Primary: `https://automobileservices.nz/services/transmission-repairs-in-south-auckland/` (Keywords: `Automatic Transmission Repair In South Auckland`, `transmission repair in papatoetoe`)
+   - Secondary: `https://automobileservices.nz/services/car-battery-in-south-auckland/` (Keywords: `Car Battery In South Auckland`, `car battery service papatoetoe`)
+2. **Set 2:**
+   - Primary: `https://automobileservices.nz/services/warrant-of-fitness-in-south-auckland/` (Keywords: `Wof South Auckland`, `warrant of fitness in papatoetoe`)
+   - Secondary: `https://automobileservices.nz/services/wheel-alignment-in-south-auckland/` (Keywords: `Wheel Alignment In South Auckland`, `wheel alignment papatoetoe`)
+
+#### Guest Post Target Pages (2 Target URLs)
+1. `https://automobileservices.nz/services/transmission-repairs-in-south-auckland/`
+2. `https://automobileservices.nz/services/warrant-of-fitness-in-south-auckland/`
+
+#### Article Target Pages (2 Target URLs)
+1. `https://automobileservices.nz/services/car-battery-in-south-auckland/`
+2. `https://automobileservices.nz/services/wheel-alignment-in-south-auckland/`
+
+---
+
+### 3.2 September 2026 Campaign Targets
+
+#### Web 2.0 Target Pages (September)
 
 #### 1st Web 2.0 Target Pages
 - `https://automobileservices.nz/services/wheel-alignment-in-south-auckland/`
@@ -45,13 +67,13 @@ This document serves as the master data source for the **Auto Mobile Services** 
 
 ---
 
-### 3.2 Guest Post Target Pages
+#### Guest Post Target Pages (September)
 - `https://automobileservices.nz/services/wheel-alignment-in-south-auckland/`
 - `https://automobileservices.nz/services/mobile-car-mechanic-in-south-auckland/`
 
 ---
 
-### 3.3 Article Target Pages
+#### Article Target Pages (September)
 - `https://automobileservices.nz/services/car-battery-in-south-auckland/`
 - `https://automobileservices.nz/services/car-servicing-in-south-auckland/`
 
@@ -91,6 +113,36 @@ This document serves as the master data source for the **Auto Mobile Services** 
 | 28 | Liste Directory (Listing 2) | `https://listedirectory.com/listings1210163/auto-mobile-services` |
 | 29 | SEO A1 Directory | `https://seo-a1directory.com/listings1200597/auto-mobile-services` |
 | 30 | Brown Edge Directory | `https://www.brownedgedirectory.com/gosearch.php?q=https%3A%2F%2Fautomobileservices.nz%2F` |
+| 31 | TradeHQ | `https://tradehq.co.nz/?post_type=trades&p=18303` |
+| 32 | Activ Directory | `https://activdirectory.net/listing/automobile-service-in-auckland-new-zealand-1243767` |
+| 33 | Aweblist | `https://aweblist.org/listing/auto-mobile-services-965322` |
+| 34 | BizToBiz | `https://www.biztobiz.org/auckland/business-services/auto-mobile-services-164400` |
+| 35 | Alive Links | `http://alivelinks.org/AutoMobile-Services_565029.html` |
+| 36 | Royal Directory | `https://royaldirectory.biz/AutoMobile-Services_383009.html` |
+| 37 | Biz Link Builder | `https://www.bizlinkbuilder.com/auckland-central/business-services/automobile-service-in-new-zealand` |
+| 38 | Activ Directory (Listing 2) | `https://activdirectory.net/listing/auto-mobile-services-1309913` |
+| 39 | TomatoQ | `https://tomatoq.com/listing/auto-mobile-services/` |
+| 40 | Blogbangboom | `https://www.blogbangboom.com/auckland/business-services/auto-mobile-services-70161` |
+| 41 | Biz Link Builder (Listing 2) | `https://www.bizlinkbuilder.com/auckland/business-services/auto-mobile-services-84526` |
+| 42 | America Small Biz | `https://www.americasmallbiz.com/auckland/business-services/auto-mobile-services` |
+| 43 | PixoLinks | `https://PixoLinks.com/556/posts/3/27/1970603.html` |
+| 44 | InstantAdz | `https://InstantAdz.com/556/posts/3/27/2154039.html` |
+| 45 | Popular Directory | `https://populardirectory.org/AutoMobile-Services_357570.html` |
+| 46 | Advanced SEO Directory | `https://www.advancedseodirectory.com/Automobile-Service-in-Auckland-New-Zealand_636932.html` |
+| 47 | Ebay Dir | `https://ebay-dir.com/listing/auto-mobile-services-465416` |
+| 48 | Find Us Here | `https://www.find-us-here.com/businesses/Automobile-Service-Auckland-Auckland-City-Auckland-New-Zealand/34310663/` |
+| 49 | Blogbangboom (Central) | `https://www.blogbangboom.com/auckland-central/business-services/automobile-service-in-new-zealand` |
+| 50 | FamilyDir | `https://www.familydir.com/Automobile-Service-in-Auckland_526982.html` |
+| 51 | BizToBiz (Central) | `https://www.biztobiz.org/auckland-central/business-services/automobile-service-in-new-zealand` |
+| 52 | EcoDir | `http://www.ecodir.net/Automobile-Service-in-Auckland-New-Zealand_338361.html` |
+| 53 | FreeAdsHome | `https://FreeAdsHome.com/556/posts/3/27/2271641.html` |
+| 54 | Classified4u | `https://classified4u.biz/556/posts/7/63/2125366.html` |
+| 55 | FreeAdsHome (Listing 2) | `https://FreeAdsHome.com/556/posts/3/27/2271670.html` |
+| 56 | FreeBestAds | `https://FreeBestAds.com/556/posts/3/27/2201708.html` |
+| 57 | GetAdsOnline | `https://GetAdsOnline.com/556/posts/3/26/2427226.html` |
+| 58 | eOnlineAds | `https://eOnlineAds.com/556/posts/3/26/2149078.html` |
+| 59 | Robust Directory | `https://robustdirectory.com/listings2219022/auto-mobile-services` |
+| 60 | Web Directory Talk | `https://webdirectorytalk.com/listings1320520/auto-mobile-services` |
 
 ---
 
@@ -128,3 +180,34 @@ This document serves as the master data source for the **Auto Mobile Services** 
 | 28 | My Oily Habit | `https://www.myoilyhabit.com/profile/automobileservices2911430/profile` |
 | 29 | Dallas Dog | `https://www.dallasdog.org/members-area/automobileservices292100/profile` |
 | 30 | JoriPress | `https://joripress.com/profile/automobile-services` |
+| 31 | Event Network For Herself | `https://event-network-for-herself.mn.co/members/42253378` |
+| 32 | Chemical Network For Soccer Moms | `https://chemical-network-for-soccer-moms.mn.co/members/42253401` |
+| 33 | Criticized For Life | `https://criticized-for-life.mn.co/members/42253415` |
+| 34 | Connect With Muggles | `https://connect-with-muggles.mn.co/members/42253454` |
+| 35 | Faith Movement Dynamics | `https://faith-movement-dynamics.mn.co/members/42253596` |
+| 36 | College Officials | `https://college-officials.mn.co/members/42253623` |
+| 37 | Enthusiasts Existence | `https://enthusiasts-existence.mn.co/members/42253647` |
+| 38 | Stagejobs | `https://stagejobs.mn.co/members/42253663` |
+| 39 | SkyPixel | `https://www.skypixel.com/users/djiuser-3xbftuym0d9n-1e1294e2d254` |
+| 40 | Experiment | `https://experiment.com/users/automobileservices` |
+| 41 | Machform | `https://discuss.machform.com/u/automobileservices` |
+| 42 | Behance | `https://www.behance.net/automobservice1` |
+| 43 | ClickASnap | `https://www.clickasnap.com/profile/automobileservices` |
+| 44 | DivePhotoGuide | `https://www.divephotoguide.com/user/AutomobileService/` |
+| 45 | TripAdvisor | `https://www.tripadvisor.com/Profile/automobileservices` |
+| 46 | Dynamics Of Craftsmanship | `https://dynamics-of-craftsmanship.mn.co/members/42254038` |
+| 47 | Changing Your Helpers | `https://changing-your-helpers.mn.co/members/42254067` |
+| 48 | Giphy | `https://giphy.com/channel/automobileservices29` |
+| 49 | Issabel Forum | `https://forum.issabel.org/u/automobileservices` |
+| 50 | Disroot | `https://git.disroot.org/automobileservices` |
+| 51 | Communal Impact | `https://communal-impact.mn.co/members/42254193` |
+| 52 | ScienceMission | `https://sciencemission.com/profile/automobileservices` |
+| 53 | Disqus | `https://disqus.com/by/auto_mobile_services/about/` |
+| 54 | SoundCloud | `https://soundcloud.com/automobile-services-9326` |
+| 55 | FriendTalk | `https://friendtalk.mn.co/members/42254547` |
+| 56 | JanjaOnline | `https://janjaonline.mn.co/members/42254699` |
+| 57 | DemocracyLab | `https://www.democracylab.org/user/69627` |
+| 58 | Simply Wall St | `https://simplywall.st/community/users/42068djl` |
+| 59 | PubHTML5 | `https://pubhtml5.com/homepage/hrjck/` |
+| 60 | Issuu | `https://issuu.com/automobileservices1` |
+
