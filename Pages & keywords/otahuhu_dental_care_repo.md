@@ -1,4 +1,4 @@
-﻿# Project Repository: Otahuhu Dental Care
+﻿﻿# Project Repository: Otahuhu Dental Care
 
 This document serves as the master data source for the **Otahuhu Dental Care** project. It contains all approved target pages, keywords, campaign target pages, Google My Business (GMB) link, business directory listings, and social/profile links required for the off-page SEO and content creation workflow.
 
@@ -32,23 +32,23 @@ This document serves as the master data source for the **Otahuhu Dental Care** p
 
 ## 3. Off-Page Campaign Target Pages
 
-### 3.1 September 2026 Campaign Targets
+### 3.1 November 2026 Campaign Targets
 
 #### Web 2.0 Target Pages (2 Sets)
 1. **Set 1:**
-   - Primary: `https://www.otahuhudental.co.nz/scaling-and-polishing/` (Keywords: `Teeth Cleaning South Auckland`, `Teeth Scaling South Auckland`)
-   - Secondary: `https://www.otahuhudental.co.nz/tooth-extraction/` (Keywords: `Tooth Extraction South Auckland`, `Broken Tooth Extraction`)
+   - Primary: `https://www.otahuhudental.co.nz/services/dentures` (Keywords: `dentures south auckland`, `Dentures Otahuhu`)
+   - Secondary: `https://www.otahuhudental.co.nz/services/dental-crowns` (Keywords: `Dental Crowns South Auckland`, `Otahuhu Dental Crowns`)
 2. **Set 2:**
-   - Primary: `https://www.otahuhudental.co.nz/orthodontic-treatment/` (Keywords: `orthodontist south auckland`, `south auckland orthodontist`)
-   - Secondary: `https://www.otahuhudental.co.nz/teeth-whitening/` (Keywords: `Teeth Whitening South Auckland`, `Best Teeth Whitening Otahuhu`)
+   - Primary: `https://www.otahuhudental.co.nz/services/teeth-whitening` (Keywords: `Teeth Whitening South Auckland`, `Best Teeth Whitening Otahuhu`)
+   - Secondary: `https://www.otahuhudental.co.nz/services/root-canal-treatment` (Keywords: `Root Canal South Auckland`, `Root Canal Treatment Otahuhu`)
 
 #### Guest Post Target Pages (4 Articles)
-1. Articles 1 & 2: `https://www.otahuhudental.co.nz/scaling-and-polishing/` (Keywords: `Teeth Cleaning South Auckland`) + Homepage
-2. Articles 3 & 4: `https://www.otahuhudental.co.nz/orthodontic-treatment/` (Keywords: `orthodontist south auckland`) + Homepage
+1. Articles 1 & 2: `https://www.otahuhudental.co.nz/services/dentures` (Keywords: `dentures south auckland`, `Best dentures in Otahuhu`) + Homepage (`https://www.otahuhudental.co.nz/`)
+2. Articles 3 & 4: `https://www.otahuhudental.co.nz/services/teeth-whitening` (Keywords: `Teeth Whitening South Auckland`, `Teeth Whitening Otahuhu`) + Homepage (`https://www.otahuhudental.co.nz/`)
 
 #### Article Target Pages (4 Articles)
-1. Articles 1 & 2: `https://www.otahuhudental.co.nz/tooth-extraction/` (Keywords: `Tooth Extraction South Auckland`) + Homepage
-2. Articles 3 & 4: `https://www.otahuhudental.co.nz/teeth-whitening/` (Keywords: `Teeth Whitening South Auckland`) + Homepage
+1. Articles 1 & 2: `https://www.otahuhudental.co.nz/services/dental-crowns` (Keywords: `Dental Crowns South Auckland`, `Dental Crowns Otahuhu`) + Homepage (`https://www.otahuhudental.co.nz/`)
+2. Articles 3 & 4: `https://www.otahuhudental.co.nz/services/root-canal-treatment` (Keywords: `Root Canal South Auckland`, `Root Canal Otahuhu`) + Homepage (`https://www.otahuhudental.co.nz/`)
 
 ### 3.2 October 2026 Campaign Targets
 
@@ -67,6 +67,24 @@ This document serves as the master data source for the **Otahuhu Dental Care** p
 #### Article Target Pages (4 Articles)
 1. Articles 1 & 2: `https://www.otahuhudental.co.nz/services/orthodontic-treatment` (Keywords: `orthodontist south auckland`, `orthodontist otahuhu`) + Homepage (`https://www.otahuhudental.co.nz/`)
 2. Articles 3 & 4: `https://www.otahuhudental.co.nz/services/scaling-and-polishing` (Keywords: `Teeth Cleaning South Auckland`, `Teeth Scaling Otahuhu`) + Homepage (`https://www.otahuhudental.co.nz/`)
+
+### 3.3 September 2026 Campaign Targets
+
+#### Web 2.0 Target Pages (2 Sets)
+1. **Set 1:**
+   - Primary: `https://www.otahuhudental.co.nz/scaling-and-polishing/` (Keywords: `Teeth Cleaning South Auckland`, `Teeth Scaling South Auckland`)
+   - Secondary: `https://www.otahuhudental.co.nz/tooth-extraction/` (Keywords: `Tooth Extraction South Auckland`, `Broken Tooth Extraction`)
+2. **Set 2:**
+   - Primary: `https://www.otahuhudental.co.nz/orthodontic-treatment/` (Keywords: `orthodontist south auckland`, `south auckland orthodontist`)
+   - Secondary: `https://www.otahuhudental.co.nz/teeth-whitening/` (Keywords: `Teeth Whitening South Auckland`, `Best Teeth Whitening Otahuhu`)
+
+#### Guest Post Target Pages (4 Articles)
+1. Articles 1 & 2: `https://www.otahuhudental.co.nz/scaling-and-polishing/` (Keywords: `Teeth Cleaning South Auckland`) + Homepage
+2. Articles 3 & 4: `https://www.otahuhudental.co.nz/orthodontic-treatment/` (Keywords: `orthodontist south auckland`) + Homepage
+
+#### Article Target Pages (4 Articles)
+1. Articles 1 & 2: `https://www.otahuhudental.co.nz/tooth-extraction/` (Keywords: `Tooth Extraction South Auckland`) + Homepage
+2. Articles 3 & 4: `https://www.otahuhudental.co.nz/teeth-whitening/` (Keywords: `Teeth Whitening South Auckland`) + Homepage
 
 ---
 ## 4. Business Listings & Local Citations
