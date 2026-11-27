@@ -33,7 +33,27 @@ This document serves as the master data source for the **Auto Mobile Services** 
 
 ## 3. Off-Page Campaign Target Pages
 
-### 3.1 October 2026 Campaign Targets
+### 3.1 November 2026 Campaign Targets
+
+#### Web 2.0 Target Pages (2 Sets)
+1. **Set 1:**
+   - Primary: `https://automobileservices.nz/services/car-tyre-services-in-south-auckland/` (Keywords: `Car Tyre Services In South Auckland`, `car tyre services in papatoetoe`)
+   - Secondary: `https://automobileservices.nz/services/auto-electrical-in-south-auckland/` (Keywords: `Auto Electrical South Auckland`, `Auto Electrician Papatoetoe`)
+2. **Set 2:**
+   - Primary: `https://automobileservices.nz/services/car-servicing-in-south-auckland/` (Keywords: `Car Service South Auckland`, `Best Car Service Papatoetoe`)
+   - Secondary: `https://automobileservices.nz/services/transmission-repairs-in-south-auckland/` (Keywords: `Automatic Transmission Repair In South Auckland`, `transmission repair in papatoetoe`)
+
+#### Guest Post Target Pages (2 Target URLs - 4 Articles)
+1. Articles 1 & 2: `https://automobileservices.nz/services/car-tyre-services-in-south-auckland/` (Keywords: `Car Tyre Services In South Auckland`, `car tyre services in papatoetoe`) + Homepage (`https://automobileservices.nz/`)
+2. Articles 3 & 4: `https://automobileservices.nz/services/car-servicing-in-south-auckland/` (Keywords: `Car Service South Auckland`, `Best Car Service Papatoetoe`) + Homepage (`https://automobileservices.nz/`)
+
+#### Article Target Pages (2 Target URLs - 4 Articles)
+1. Articles 1 & 2: `https://automobileservices.nz/services/auto-electrical-in-south-auckland/` (Keywords: `Auto Electrical South Auckland`, `Auto Electrician Papatoetoe`) + Homepage (`https://automobileservices.nz/`)
+2. Articles 3 & 4: `https://automobileservices.nz/services/transmission-repairs-in-south-auckland/` (Keywords: `Automatic Transmission Repair In South Auckland`, `transmission repair in papatoetoe`) + Homepage (`https://automobileservices.nz/`)
+
+---
+
+### 3.2 October 2026 Campaign Targets
 
 #### Web 2.0 Target Pages (2 Sets)
 1. **Set 1:**
@@ -53,7 +73,7 @@ This document serves as the master data source for the **Auto Mobile Services** 
 
 ---
 
-### 3.2 September 2026 Campaign Targets
+### 3.3 September 2026 Campaign Targets
 
 #### Web 2.0 Target Pages (September)
 
